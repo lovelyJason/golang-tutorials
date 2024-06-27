@@ -2,7 +2,7 @@
 
 ## 前言
 
-此为各平台收集整理的golang课程，如有侵权请联系我删除.目的是助力各位前端成为全栈谢谢，如果对你有帮助，请给个star谢谢
+此为各平台收集整理的golang课程，如有侵权请联系我删除.目的是助力各位前端成为全栈，如果对你有帮助，请给个star谢谢
 
 01-go入门教程
 
@@ -42,7 +42,5 @@
 ## 打赏作者
 
 如果对您有帮助，帮忙点杯咖啡谢谢
-
 <img src="https://github.com/lovelyJason/golang-tutorials/assets/50656459/852b2610-bc0c-4a10-8619-6f4f06ee67fe" width="300" />
 <img src="https://github.com/lovelyJason/golang-tutorials/assets/50656459/5b6a6be2-149b-432d-ad7e-9c978c9fc1e3" width="300" />
-
