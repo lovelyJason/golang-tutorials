@@ -1,5 +1,8 @@
 # golang从入门到精通到放弃
 
+![head](https://github.com/lovelyJason/golang-tutorials/assets/50656459/3b50a7df-3b59-4e87-8599-cea6cc0c6d0d)
+
+
 ## 前言
 
 此为各平台收集整理的golang课程，从前到后阅读效果更佳😇，如有侵权请联系我删除.目的是助力各位前端成为全栈，如果对你有帮助，请给个star谢谢
